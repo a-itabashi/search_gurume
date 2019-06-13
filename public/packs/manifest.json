@@ -1,0 +1,80 @@
+{
+  "application.js": "/packs/js/application-877a62cb8c1e8a149f6d.js",
+  "application.js.map": "/packs/js/application-877a62cb8c1e8a149f6d.js.map",
+  "components/header.js": "/packs/js/components/header-dccfca684c35a98102bb.js",
+  "components/header.js.map": "/packs/js/components/header-dccfca684c35a98102bb.js.map",
+  "components/index.css": "/packs/css/components/index-d75ec65a.css",
+  "components/index.js": "/packs/js/components/index-19f364ddee28e5e9b8fa.js",
+  "components/index.js.map": "/packs/js/components/index-19f364ddee28e5e9b8fa.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-877a62cb8c1e8a149f6d.js"
+      ],
+      "js.map": [
+        "/packs/js/application-877a62cb8c1e8a149f6d.js.map"
+      ]
+    },
+    "components/header": {
+      "js": [
+        "/packs/js/components/header-dccfca684c35a98102bb.js"
+      ],
+      "js.map": [
+        "/packs/js/components/header-dccfca684c35a98102bb.js.map"
+      ]
+    },
+    "components/index": {
+      "css": [
+        "/packs/css/components/index-d75ec65a.css"
+      ],
+      "js": [
+        "/packs/js/components/index-19f364ddee28e5e9b8fa.js"
+      ],
+      "js.map": [
+        "/packs/js/components/index-19f364ddee28e5e9b8fa.js.map"
+      ]
+    },
+    "gurume": {
+      "css": [
+        "/packs/css/gurume-7a5cebff.css"
+      ],
+      "js": [
+        "/packs/js/gurume-8815c5f1f007d3dcad92.js"
+      ],
+      "js.map": [
+        "/packs/js/gurume-8815c5f1f007d3dcad92.js.map"
+      ]
+    },
+    "hello_vue": {
+      "css": [
+        "/packs/css/hello_vue-f9129779.css"
+      ],
+      "js": [
+        "/packs/js/hello_vue-0920bb1f5e887062b058.js"
+      ],
+      "js.map": [
+        "/packs/js/hello_vue-0920bb1f5e887062b058.js.map"
+      ]
+    },
+    "router/router": {
+      "css": [
+        "/packs/css/router/router-d75ec65a.css"
+      ],
+      "js": [
+        "/packs/js/router/router-b0dd66fe56b78648a233.js"
+      ],
+      "js.map": [
+        "/packs/js/router/router-b0dd66fe56b78648a233.js.map"
+      ]
+    }
+  },
+  "gurume.css": "/packs/css/gurume-7a5cebff.css",
+  "gurume.js": "/packs/js/gurume-8815c5f1f007d3dcad92.js",
+  "gurume.js.map": "/packs/js/gurume-8815c5f1f007d3dcad92.js.map",
+  "hello_vue.css": "/packs/css/hello_vue-f9129779.css",
+  "hello_vue.js": "/packs/js/hello_vue-0920bb1f5e887062b058.js",
+  "hello_vue.js.map": "/packs/js/hello_vue-0920bb1f5e887062b058.js.map",
+  "router/router.css": "/packs/css/router/router-d75ec65a.css",
+  "router/router.js": "/packs/js/router/router-b0dd66fe56b78648a233.js",
+  "router/router.js.map": "/packs/js/router/router-b0dd66fe56b78648a233.js.map"
+}
