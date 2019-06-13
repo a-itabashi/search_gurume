@@ -96,7 +96,7 @@
   };
 </script>
 
-<style scoped>
+<style>
 
 
 .search-box{
